@@ -1,0 +1,37 @@
+{
+  "earthquake": {
+    "priority": "medium",
+    "keywords": [
+      "tremor",
+      "seismic activity",
+      "aftershock"
+    ]
+  },
+  "flood": {
+    "priority": "high",
+    "keywords": [
+      "water",
+      "gydsy"
+    ]
+  },
+  "wildfire": {
+    "priority": "low",
+    "keywords": [
+      "gdy"
+    ]
+  },
+  "fire": {
+    "priority": "low",
+    "keywords": [
+      "gfdh",
+      "hhjgdhfjk"
+    ]
+  },
+  "uydfug": {
+    "priority": "low",
+    "keywords": [
+      "gjh",
+      "hgjh"
+    ]
+  }
+}
